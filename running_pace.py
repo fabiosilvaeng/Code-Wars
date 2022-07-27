@@ -1,3 +1,4 @@
+#code wars Kata link: https://www.codewars.com/kata/578b8c0e84ac69a4d20004c8
 def running_pace(distance, time):
     if len(time) > 4:
         min = int(time[:-3])

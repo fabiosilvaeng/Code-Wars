@@ -1,3 +1,4 @@
+#code wars Kata link: https://www.codewars.com/kata/54a2e93b22d236498400134b
 def presses (a:str):
 
     nome = a.upper()

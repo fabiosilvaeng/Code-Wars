@@ -1,4 +1,4 @@
-
+#code wars Kata link: https://www.codewars.com/kata/60cc93db4ab0ae0026761232
 def arrange (s):
     if len(s)%2 > 0:
         meio = int(len(s)/2)

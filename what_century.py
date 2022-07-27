@@ -1,3 +1,4 @@
+#code wars Kata link: https://www.codewars.com/kata/52fb87703c1351ebd200081f
 def what_century(year):
     ordinal = ['th','st','nd','rd','th','th','th','th','th','th']
     if len(year) < 3:

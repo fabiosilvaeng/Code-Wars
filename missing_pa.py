@@ -1,4 +1,4 @@
-## encontrar numero perdido na progressão aritimetica
+#code wars Kata link: https://www.codewars.com/kata/52de553ebb55d1fca3000371
 def find_missing (a):
     vet = a
     raz = (vet[-1] - vet[0])/len(vet)

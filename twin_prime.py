@@ -1,3 +1,4 @@
+#code wars Kata link: https://www.codewars.com/kata/59b7ae14bf10a402d40000f3
 def is_twinprime(n):
     numeros = {'central':n,'antecessor':n-2,'sucesor':n+2}
     qtd_primos = 0

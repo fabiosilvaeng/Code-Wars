@@ -1,3 +1,4 @@
+#code wars Kata link: https://www.codewars.com/kata/5853213063adbd1b9b0000be
 def street_fighter_selection (a,b,c):
     lista = (a)
     fighters = lista[0] + lista[1]

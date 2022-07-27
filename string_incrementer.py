@@ -1,3 +1,4 @@
+#code wars Kata link: https://www.codewars.com/kata/54a91a4883a7de5d7800009c
 def increment_string(strng):
     nums = ['0','1','2','3','4','5','6','7','8','9']
     parte_numerica = '' 
