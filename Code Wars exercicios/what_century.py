@@ -16,8 +16,4 @@ def what_century(year):
 
     return seculo
 
-
-
-
-
 print(what_century("1234"))
